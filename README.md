@@ -1,6 +1,6 @@
 Bienvenido a mi GITHUB!!
 
-¡Prepárate para sumergirte en el apasionante mundo de la ingeniería multimedia! Soy [Nombre del estudiante], y a través de esta plataforma, quiero compartir contigo mi pasión por la tecnología y el diseño. Permíteme guiarte a través de un recorrido creativo por mi perfil de GitHub, donde podrás descubrir mis proyectos, habilidades y contribuciones.
+¡Prepárate para sumergirte en el apasionante mundo de la ingeniería multimedia! Soy Alberto Játiva, y a través de esta plataforma, quiero compartir contigo mi pasión por la tecnología y el diseño. Permíteme guiarte a través de un recorrido creativo por mi perfil de GitHub, donde podrás descubrir mis proyectos, habilidades y contribuciones.
 
 
 📌 Perfil:
